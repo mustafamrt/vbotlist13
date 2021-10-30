@@ -1,0 +1,20 @@
+{
+  "name": "Narcos Code",
+  "version": "3.0.0",
+  "description": "Narcos Code",
+  "main": "nrc.js",
+  "scripts": {
+    "test": "node nrc.js"
+  },
+  "author": "MustafaMert",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.1.0",
+    "jimp": "^0.16.1",
+    "nrc.db": "^2.1.0"
+  },
+  "devDependencies": {
+    "discord-api-types": "^0.23.1"
+  }
+}
